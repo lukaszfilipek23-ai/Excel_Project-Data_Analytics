@@ -100,7 +100,7 @@ This approach improves clarity and reduces the friction of manual exploration.
 
 ## Repository contents
 
-[Salary Benchmarking Dashboard] — final Excel workbook
+[Salary Benchmarking Dashboard](https://github.com/lukaszfilipek23-ai/Excel_Project-Data_Analytics/blob/main/Projekt_excel_1.xlsx) — final Excel workbook
 
 
 ## Author
