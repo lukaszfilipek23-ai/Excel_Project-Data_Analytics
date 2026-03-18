@@ -100,7 +100,7 @@ This approach improves clarity and reduces the friction of manual exploration.
 
 ## Repository contents
 
-- `Projekt_excel_1.xlsx` — final Excel workbook
+[Salary Benchmarking Dashboard] — final Excel workbook
 
 
 ## Author
