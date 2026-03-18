@@ -7,6 +7,14 @@ An interactive Excel project for exploring salary patterns across data roles, co
 
 This workbook transforms a large job-market dataset into a compact analytical dashboard. By selecting a **job title**, **country**, and **employment type**, the user can quickly compare compensation patterns and related market signals.
 
+## Dataset snapshot
+
+**Records:** 32,672 rows  
+**Fields:** 16 columns  
+**Countries represented:** 111
+
+This scope gives the project enough depth for filtering, segmentation, and comparative analysis.
+
 ## Project overview
 
 The goal of this project is to make salary data easier to explore and interpret inside Excel.
@@ -23,18 +31,24 @@ The result is an Excel-based tool for salary benchmarking rather than a workbook
 
 The dashboard allows the user to:
 - select a **job title**,
+- 
+  <img width="284" height="293" alt="Job_title_list" src="https://github.com/user-attachments/assets/acbcfda9-e55e-46a7-98e9-16396d8d514a" />
+<img width="566" height="429" alt="job_title_chart" src="https://github.com/user-attachments/assets/937d29c3-a15e-486a-a78f-8719165599b5" />
+
 - filter by **country**,
+- 
+  <img width="264" height="338" alt="country_list" src="https://github.com/user-attachments/assets/211c15e2-07af-42e4-8b37-f98d46f0cf66" />
+<img width="544" height="411" alt="country_chart" src="https://github.com/user-attachments/assets/3fe213ac-abc5-4c26-b415-86856161586a" />
+
 - filter by **employment type**,
+  
+  <img width="187" height="195" alt="type_list" src="https://github.com/user-attachments/assets/60853dc4-3762-4cee-8833-4ea2d32b4d87" />
+<img width="553" height="430" alt="type_chart" src="https://github.com/user-attachments/assets/8b98bfa0-353b-470f-9703-acefe1f45528" />
+
 - review salary benchmarks for the selected combination,
 - and compare supporting views across role, geography, and platform.
 
-## Dataset snapshot
 
-**Records:** 32,672 rows  
-**Fields:** 16 columns  
-**Countries represented:** 111
-
-This scope gives the project enough depth for filtering, segmentation, and comparative analysis.
 
 ## Analytical focus
 
@@ -96,7 +110,7 @@ This approach improves clarity and reduces the friction of manual exploration.
 
 ## Author
 
-**Łukasz Filipek**  Transitioning into Data Analytics with a background in project management and cost control.
+**Łukasz Filipek**  Aspiring Data Analyst with a background in project management and cost control.
 
 ---
 
