@@ -28,15 +28,6 @@ The dashboard allows the user to:
 - review salary benchmarks for the selected combination,
 - and compare supporting views across role, geography, and platform.
 
-The workbook is organized into the following sheets:
-- **Data** — source dataset
-- **Salary_Calculator** — main dashboard and input area
-- **Data_Validation** — helper sheet for validated selection lists
-- **Title** — salary comparison by role
-- **Country** — country-level analysis
-- **Type** — employment-type analysis
-- **Platform** — job-platform counts and supporting comparisons
-
 ## Dataset snapshot
 
 **Records:** 32,672 rows  
